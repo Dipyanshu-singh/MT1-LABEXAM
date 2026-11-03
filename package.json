@@ -1,12 +1,12 @@
 {
-  "name": "mt1-labexam",
+  "name": "MT1-LABEXAM",
   "version": "1.0.0",
-  "description": "Employee task management",
+  "description": "Employee task management Web Application",
   "type":"module",
   "main": "httpServer.js",
   "scripts": {
-    "start:http":"node httpServer.js",
-    "start:express":"node expressApp.js"
+    "http":"node httpServer.js",
+    "express":"node expressApp.js"
   },
   "keywords": [],
   "author": "",
